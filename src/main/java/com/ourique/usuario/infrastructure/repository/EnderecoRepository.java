@@ -1,6 +1,6 @@
 package com.ourique.usuario.infrastructure.repository;
 
-import com.javacourse.aprendendo_spring.infrastructure.entity.Endereco;
+import com.ourique.usuario.infrastructure.entity.Endereco;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
